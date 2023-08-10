@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @baselosama26
+- 👀 I’m interested in Software testing 
+- 🌱 I’m currently learning software testing
